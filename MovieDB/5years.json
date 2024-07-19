@@ -1,0 +1,157 @@
+{
+    "2019": [
+        {
+            "Title": "Parasite",
+            "Director": "Bong Joon Ho",
+            "Synopsis": "A South Korean film that explores class differences and the relationship between two families."
+        },
+        {
+            "Title": "The Irishman",
+            "Director": "Martin Scorsese",
+            "Synopsis": "An epic gangster drama illustrating the life of hitman Frank Sheeran."
+        },
+        {
+            "Title": "Marriage Story",
+            "Director": "Noah Baumbach",
+            "Synopsis": "A compassionate look at a marriage breaking up and a family staying together."
+        },
+        {
+            "Title": "Jojo Rabbit",
+            "Director": "Taika Waititi",
+            "Synopsis": "A young boy in Hitler's army finds out his mother is hiding a Jewish girl in their home."
+        },
+        {
+            "Title": "1917",
+            "Director": "Sam Mendes",
+            "Synopsis": "Two young British soldiers during the First World War are given an impossible mission."
+        }
+    ],
+    "2020": [
+        {
+            "Title": "Nomadland",
+            "Director": "Chloé Zhao",
+            "Synopsis": "A woman in her sixties, after losing everything in the Great Recession, lives as a modern-day nomad."
+        },
+        {
+            "Title": "The Trial of the Chicago 7",
+            "Director": "Aaron Sorkin",
+            "Synopsis": "The story of seven people on trial stemming from various charges surrounding the uprising at the 1968 Democratic National Convention."
+        },
+        {
+            "Title": "Minari",
+            "Director": "Lee Isaac Chung",
+            "Synopsis": "A Korean American family moves to an Arkansas farm in search of its own American dream."
+        },
+        {
+            "Title": "Promising Young Woman",
+            "Director": "Emerald Fennell",
+            "Synopsis": "A young woman, traumatized by a tragic event in her past, seeks out vengeance against those who crossed her path."
+        },
+        {
+            "Title": "Sound of Metal",
+            "Director": "Darius Marder",
+            "Synopsis": "A heavy metal drummer's life is turned upside down when he begins to lose his hearing."
+        }
+    ],
+    "2021": [
+        {
+            "Title": "The Power of the Dog",
+            "Director": "Jane Campion",
+            "Synopsis": "A charismatic rancher inspires fear and awe in those around him, but his world changes when his brother brings home a new wife and her son."
+        },
+        {
+            "Title": "Dune",
+            "Director": "Denis Villeneuve",
+            "Synopsis": "A noble family becomes embroiled in a war for control over the galaxy's most valuable asset while its heir becomes troubled by visions of a dark future."
+        },
+        {
+            "Title": "Licorice Pizza",
+            "Director": "Paul Thomas Anderson",
+            "Synopsis": "The story of Alana Kane and Gary Valentine growing up and navigating first love in the San Fernando Valley, 1973."
+        },
+        {
+            "Title": "CODA",
+            "Director": "Sian Heder",
+            "Synopsis": "As a CODA (Child of Deaf Adults), Ruby is the only hearing person in her deaf family. When the family's fishing business is threatened, Ruby finds herself torn between pursuing her love of music and her fear of abandoning her parents."
+        },
+        {
+            "Title": "The Green Knight",
+            "Director": "David Lowery",
+            "Synopsis": "A fantasy re-telling of the medieval story of Sir Gawain and the Green Knight."
+        }
+    ],
+    "2022": [
+        {
+            "Title": "The Banshees of Inisherin",
+            "Director": "Martin McDonagh",
+            "Synopsis": "A finely crafted story about a deteriorating friendship on a remote island off the west coast of Ireland."
+        },
+        {
+            "Title": "Guillermo del Toro's Pinocchio",
+            "Director": "Guillermo del Toro, Mark Gustafson",
+            "Synopsis": "A visually stunning adaptation that embraces the darkness of its source material."
+        },
+        {
+            "Title": "Till",
+            "Director": "Chinonye Chukwu",
+            "Synopsis": "An emotional recounting of Mamie Till Mobley's pursuit of justice for her son."
+        },
+        {
+            "Title": "The Woman King",
+            "Director": "Gina Prince-Bythewood",
+            "Synopsis": "The story of the Agojie, the all-female unit of warriors who protected the African Kingdom of Dahomey."
+        },
+        {
+            "Title": "Prey",
+            "Director": "Dan Trachtenberg",
+            "Synopsis": "A Predator prequel that combines action with character development, set in the Comanche Nation 300 years ago."
+        },
+        {
+            "Title": "The Northman",
+            "Director": "Robert Eggers",
+            "Synopsis": "An epic revenge thriller exploring how far a Viking prince will go to seek justice for his murdered father."
+        },
+        {
+            "Title": "X",
+            "Director": "Ti West",
+            "Synopsis": "A fresh spin on the classic slasher formula, set in rural Texas."
+        }
+    ],
+    "2023": [
+        {
+            "Title": "The Taste of Things",
+            "Director": "Tran Anh Hung",
+            "Synopsis": "A seven-course love story set in the world of French haute cuisine."
+        },
+        {
+            "Title": "Shayda",
+            "Director": "Noora Niasari",
+            "Synopsis": "A story of female empowerment following an Iranian mother and her daughter finding refuge in an Australian women's shelter."
+        },
+        {
+            "Title": "The Teachers' Lounge",
+            "Director": "Ilker Çatak",
+            "Synopsis": "A smart and provocative modern parable set in a high school."
+        },
+        {
+            "Title": "Anatomy of a Fall",
+            "Director": "Justine Triet",
+            "Synopsis": "A smart, solidly crafted procedural that's anchored in family drama."
+        },
+        {
+            "Title": "Creed III",
+            "Director": "Michael B. Jordan",
+            "Synopsis": "The latest in the Creed franchise, focusing on Adonis Creed's journey in the boxing world."
+        },
+        {
+            "Title": "Still: A Michael J. Fox Movie",
+            "Director": "Davis Guggenheim",
+            "Synopsis": "A poignant look at the life and career of Michael J. Fox."
+        },
+        {
+            "Title": "Godzilla Minus One",
+            "Director": "Takashi Yamazaki",
+            "Synopsis": "A kaiju movie that remains compelling with engaging human stories."
+        }
+    ]
+}
